@@ -1,0 +1,26 @@
+
+.column{
+    height: 40px;
+    float: left;
+    width:33.33%;
+}
+.image{
+    color: aliceblue;
+    border-top: 40px solid #ff5959;
+    background-image: url("https://i.pinimg.com/originals/f4/1f/95/f41f95fc7ab5f5d76ad0ed3f36481a92.jpg");
+    background-color: #facf5a;
+    background-position: center;
+    height: 350px;
+}
+p.more-info{
+    float: right;
+}
+.tropical {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+  }
+p.tropical {
+    float: right;
+}
+  
